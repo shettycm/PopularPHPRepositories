@@ -1,4 +1,4 @@
-#Most Popular Public GitHib PHP Projects Based on Stars
+##Most Popular Public GitHib PHP Projects Based on Stars
 This project is built on WAMP(Windows, Apache, MySQL, PHP) stack. It allows you to browse through top 150 public git hub repositories based on number of stars. 
 It has two components. 
 
